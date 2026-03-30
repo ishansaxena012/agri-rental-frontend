@@ -1,0 +1,11 @@
+{
+  "name": "AgriRent - Farm Equipment Rental",
+  "short_name": "AgriRent",
+  "description": "Rent agricultural equipment near you",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdfaf5",
+  "theme_color": "#5c8252",
+  "orientation": "portrait",
+  "icons": []
+}
